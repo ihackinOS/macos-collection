@@ -1,12 +1,13 @@
-# Tổng Hợp Bộ Cài macOS ( Có OpenCore 1.0.2 )
+# → TỔNG HỢP BỘ CÀI MACOS ( CÓ KÈM OPENCORE 1.0.2 ) ←
+Trong bộ cài đã cài đặt sẵn bộ EFI OpenCore, chỉ cần dùng Etcher để Flash vào Usb là có thể cài đặt bình thường
 
-- Chỉnh cấu hình BIOS
+# → CHỈNH CẤU HÌNH BIOS ←
   - SATA → **AHCI**
   - Disable → **Secure Boot**
   - Disable → **CSM**
   - Enable → **Above 4G Decoding**
  
-- Hướng dẫn:
+# → HƯỚNG DẪN ←
   - Tải bộ cài hackinOS Images để ghi vào Usb
     - [hackinOS Sequoia 15](http://go.megaurl.in/EtcherSequoia)
     - [hackinOS Sonoma 14](http://go.megaurl.in/EtcherSonoma)
@@ -22,7 +23,7 @@
     - Hoàn thành ( Trong bộ cài đã có sẵn EFI OpenCore )
   - Boot vào bộ cài và cài đặt như bình thường
  
-- Liên hệ dịch vụ:
+# ← LIÊN HỆ DỊCH VỤ →
   - Telegram ( https://t.me/hackinOS )
   - Zalo ( https://zalo.me/0931798900 )
   - Website: www.hackinOS.com
